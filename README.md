@@ -2,7 +2,9 @@
 
 Play the Windows playtest build with a friend using Steam's Spacewar app identity. This project packages a small, build-specific change to the game's existing Steam integration.
 
-**[Download v0.1.0](https://github.com/j117mw3/LeftLeftLEFT-Spacewar/releases/download/v0.1.0/LeftLeftLEFT-Spacewar-v0.1.0.zip)**
+**[Download the ready-to-install ZIP](https://github.com/j117mw3/LeftLeftLEFTPlaytest-Spacewar/raw/refs/heads/main/LeftLeftLEFT-Spacewar-v0.1.0.zip)** · [Release and checksum](https://github.com/j117mw3/LeftLeftLEFTPlaytest-Spacewar/releases/tag/v0.1.0)
+
+The `GameAssembly.dll` and `steam_appid.txt` in this repository are the tested files. The ZIP packages them together with installation notes.
 
 ## Requirements
 
